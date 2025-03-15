@@ -37,6 +37,12 @@ function Navbar() {
             contact
           </a>
         </li>
+        <li className="nav_item">
+          {" "}
+          <a href="#" className="nav_link">
+            contact
+          </a>
+        </li>
       </ul>
       <div className="nav_taggler">
         <div className="liner1"></div>
